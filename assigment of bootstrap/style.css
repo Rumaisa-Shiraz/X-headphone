@@ -1,0 +1,17 @@
+*{
+font-family: 'Times New Roman', Times, serif;
+}
+.navbar-brand b{
+    color: rgb(26, 26, 240);
+    font-size: larger;
+}
+.navbar-brand {
+    color: whitesmoke !important;
+}
+.container-fluid{
+    background-color: black;
+}
+#navbarNavDropdown{
+    color: whitesmoke !important;
+    
+}
